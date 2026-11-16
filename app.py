@@ -8,7 +8,7 @@ PAGE = """
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>林晓的个人主页</title>
+  <title>黄老板的个人主页</title>
   <style>
     :root {
       --ink: #263238;
@@ -175,7 +175,7 @@ PAGE = """
 </head>
 <body>
   <nav class="nav">
-    <a class="brand" href="#home">林晓 · 个人主页</a>
+    <a class="brand" href="#home">黄老板 · 个人主页</a>
     <div class="nav-links">
       <a href="#about">关于我</a>
       <a href="#gallery">照片</a>
@@ -188,10 +188,11 @@ PAGE = """
   <header class="hero" id="home">
     <div>
       <span class="eyebrow">你好，欢迎来到我的小站</span>
-      <h1>你好，我是林晓。</h1>
+      <h1>你好，我是黄老板。</h1>
       <p>
-        我是一名热爱设计、写作与探索新事物的创作者。
+        我是一名热爱购物、写作与探索新事物的创作者。
         我喜欢把灵感变成具体的作品，也喜欢用镜头记录生活里值得珍藏的瞬间。
+        滕王高阁临江渚，佩玉鸣鸾罢歌舞。每个人的生活都值得被记录和分享，我希望这个小站能成为我与世界交流的窗口。
       </p>
       <a class="button" href="#about">了解更多</a>
     </div>
@@ -212,6 +213,8 @@ PAGE = """
           我相信生活不只有目标和结果，也有沿途的观察与体验。
           平时我会阅读、拍照、做一些小项目，也会尝试不同的工具和想法。
           这个网页是我的个人空间，用来整理作品、记录成长，并分享喜欢的事物。
+          人生自古谁无死，留取丹心照汗青。希望在这里留下我的一些思考和创作，也希望能与有趣的人交流。
+          孤独、寂寞、无助时，记得还有这个小站在陪伴你。
         </p>
         <p>
           如果你也对创意、技术或旅行感兴趣，欢迎通过页面下方的联系方式和我交流。
@@ -318,12 +321,12 @@ PAGE = """
 
   <section class="contact" id="contact">
     <h2>和我打个招呼吧</h2>
-    <p>如果你想交流、合作，或者只是想分享一个好点子，欢迎联系我。</p>
+    <p>如果你想交流、合作，或者只是想分享一个好点子，欢迎联系我。tele:18905620065</p>
     <a class="button" href="mailto:hello@example.com">发送邮件</a>
   </section>
 
   <footer>
-    © 2025 林晓的个人主页 · 用 Flask 制作
+    © 2026年11月16日 黄老板的个人主页 · 用 Flask 制作
   </footer>
 </body>
 </html>
